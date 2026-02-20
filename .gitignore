@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+eduland_dev.db
+*.db
+venv/
+.venv/
